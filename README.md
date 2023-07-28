@@ -3,5 +3,5 @@ The blurring effect of an image is represented by the point spread function(PSF)
 
 # Screenshots
 ![image](https://github.com/SilviuAlexandru/BlurEstimation/assets/119167365/5d5dbb7c-d7e9-4bcb-b9b1-28363a24cf45)
-
+Image used
 
